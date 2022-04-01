@@ -15,9 +15,9 @@ freq = 440  # Hz
 # api_passphrase = '00000000'
 # client = Client(api_key, api_secret, api_passphrase, sandbox=True)
 
-api_key = '6224bde70fd8a700019e8bc5'
-api_secret = '327de38a-60ad-4606-898d-50f03d50c680'
-api_passphrase = '85462500'
+api_key = 
+api_secret = 
+api_passphrase = 
 
 client = Client(api_key, api_secret, api_passphrase)
 
